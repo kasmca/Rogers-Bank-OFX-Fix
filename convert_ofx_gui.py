@@ -229,7 +229,7 @@ class OFXConverterGUI:
             "The transaction dates are corrected by adding 1 day.\n\n"
             "This program allows the user to select which transactions they want imported. "
             "Use combinations of Shift, CTRL, and select.\n\n"
-            "Provide feedback at kganca@gmail.com"
+            "Provide feedback at https://github.com/kasmca/Rogers-Bank-OFX-Fix"
         )
         messagebox.showinfo("Help", msg)
 
