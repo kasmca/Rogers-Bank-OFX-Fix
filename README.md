@@ -10,3 +10,5 @@ Finally, even prior to this update, previous downloaded transaction dates were i
 I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask them address this issue.  I encourage you to do the same.
 
 Feedback at kganca@gmail.com
+
+[![GitHub all releases](https://img.shields.io/github/downloads/kasmca/Rogers-Bank-OFX-Fix/total?label=Downloads)](https://github.com/kasmca/Rogers-Bank-OFX-Fix/releases/latest)
