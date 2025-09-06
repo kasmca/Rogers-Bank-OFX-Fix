@@ -7,9 +7,7 @@ Additionally, Rogers Bank limited downloads to just complete monthly statements 
 
 Finally, even prior to this update, previous downloaded transaction dates were incorrectly set to 1 day earlier.  This program will correct that.
 
-I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask them address this issue.  I encourage you to do the same.
-
-Feedback at kganca@gmail.com
+I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask them address this issue.  I encourage you to do the sameas this program is designed to just be a temporary fix.
 
 ## Download
 [![GitHub all releases](https://img.shields.io/github/downloads/kasmca/Rogers-Bank-OFX-Fix/total?label=Downloads&cacheSeconds=60)](https://github.com/kasmca/Rogers-Bank-OFX-Fix/releases/latest)
