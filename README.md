@@ -6,3 +6,7 @@ After Rogers Bank updated their website, OFX files are no longer valid imports f
 Additionally, Rogers Bank limited downloads to just complete monthly statements with no ability to select date ranges or "since last downloaded".  I added a feature to select all, select none or select specific sets of transactions.  Use a combination ofr Shift, CTRL and select to only convert and import the transactions you want.
 
 Finally, even prior to this update, previous downloaded transaction dates were incorrectly set to 1 day earlier.  This program will correct that.
+
+I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask to address this issue.  I encourage you to do the same.
+
+Feedback at kganca@gmail.com
