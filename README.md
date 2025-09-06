@@ -11,8 +11,6 @@ I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask them address th
 
 Feedback at kganca@gmail.com
 
-[![GitHub all releases](https://img.shields.io/github/downloads/kasmca/Rogers-Bank-OFX-Fix/total?label=Downloads)](https://github.com/kasmca/Rogers-Bank-OFX-Fix/releases/latest)
-
 ## Download
 [![GitHub all releases](https://img.shields.io/github/downloads/kasmca/Rogers-Bank-OFX-Fix/total?label=Downloads&cacheSeconds=60)](https://github.com/kasmca/Rogers-Bank-OFX-Fix/releases/latest)
 
