@@ -7,6 +7,6 @@ Additionally, Rogers Bank limited downloads to just complete monthly statements 
 
 Finally, even prior to this update, previous downloaded transaction dates were incorrectly set to 1 day earlier.  This program will correct that.
 
-I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask to address this issue.  I encourage you to do the same.
+I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask them address this issue.  I encourage you to do the same.
 
 Feedback at kganca@gmail.com
