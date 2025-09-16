@@ -9,6 +9,8 @@ Finally, even prior to this update, previous downloaded transaction dates were i
 
 I have logged a ticket with Rogers Bank at 1-855-775-2265 to ask them address this issue.  I encourage you to do the same, as this program is designed to just be a temporary fix.
 
+Here is a chrome extension that brings back the functionality to download current transactions.  It can be used in conjunction with the Rogers-Bank-OFX-fix program: https://github.com/mdanics/rogers-bank-current-transactions-extension
+
 ## Download
 [![GitHub all releases](https://img.shields.io/github/downloads/kasmca/Rogers-Bank-OFX-Fix/total?label=Downloads&cacheSeconds=60)](https://github.com/kasmca/Rogers-Bank-OFX-Fix/releases/latest)
 
