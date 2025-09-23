@@ -16,3 +16,34 @@ Here is a chrome extension that brings back the functionality to download curren
 
 👉 [Download the latest version here](https://github.com/kasmca/Rogers-Bank-OFX-Fix/releases/latest)
 
+Additional Details:
+
+PURPOSE
+This program is designed to correct Rogers Bank OFX files so that they can be successfully imported into Microsoft Money. Rogers provides OFX files in a newer XML-style format (OFX 2.x), but Microsoft Money only supports the older SGML-based format (OFX 1.02). Without correction, Microsoft Money will reject or fail to read the file.
+
+ISSUES WITH THE ORIGINAL ROGERS BANK OFX
+- Wrong header format – Rogers uses an XML-style header, while Microsoft Money requires an SGML-style header (e.g., OFXHEADER:100, VERSION:102).
+- Missing or inconsistent tags – Certain elements (like <DTEND>) were not properly closed, which breaks Money’s parser.
+- FITID format – Transaction IDs provided by Rogers were not unique or consistent. Microsoft Money requires unique IDs to avoid duplicates.
+- Transaction dates – The dates in Rogers’ OFX were off by one day compared to the actual statement.
+- Format mismatch – Rogers exports OFX 2.x XML, while Microsoft Money only supports OFX 1.02 SGML.
+
+FIXES APPLIED BY THIS PROGRAM
+- Converts the header to OFX 1.02 SGML format.
+- Ensures all tags are properly opened and closed.
+- Reformats FITID values into a consistent, unique format.
+- Adjusts all transaction dates by +1 day so they match correctly in Microsoft Money.
+- Outputs a valid OFX file that Microsoft Money accepts.
+
+HOW TO USE
+- Run the program (OFX_Fixer.exe).
+- Click Browse to select your Rogers Bank OFX file.
+- Review transactions (you can select/deselect which ones to include).
+- Click Convert and Save.
+- A new file will be created in the same folder with _fixed added to the filename.
+- Import the _fixed.ofx file into Microsoft Money.
+
+NOTES
+- Highlight transactions to choose which ones to export. Use Ctrl and Shift for multi-selection.
+- Select All and Select None buttons make it easy to manage selections.
+- Dates are automatically corrected by +1 day.
