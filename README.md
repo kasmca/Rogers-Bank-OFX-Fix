@@ -37,7 +37,7 @@ FIXES APPLIED BY THIS PROGRAM
 - Outputs a valid OFX file that Microsoft Money accepts.
 
 HOW TO USE
-- Run the program (OFX_Fixer.exe).
+- Run the program (convert_ofx_gui.exe).
 - Click Browse to select your Rogers Bank OFX file.
 - Review transactions (you can select/deselect which ones to include).
 - Click Convert and Save.
