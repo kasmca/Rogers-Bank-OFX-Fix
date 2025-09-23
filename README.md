@@ -19,7 +19,8 @@ Here is a chrome extension that brings back the functionality to download curren
 Additional Details:
 
 PURPOSE
-This program is designed to correct Rogers Bank OFX files so that they can be successfully imported into Microsoft Money. Rogers provides OFX files in a newer XML-style format (OFX 2.x), but Microsoft Money only supports the older SGML-based format (OFX 1.02). Without correction, Microsoft Money will reject or fail to read the file.
+- This program is designed to correct Rogers Bank OFX files so that they can be successfully imported into Microsoft Money. Rogers provides OFX files in a newer XML-style format (OFX 2.x), but Microsoft Money only supports the older SGML-based format (OFX 1.02).
+- Without correction, Microsoft Money will reject or fail to read the file.
 
 ISSUES WITH THE ORIGINAL ROGERS BANK OFX
 - Wrong header format – Rogers uses an XML-style header, while Microsoft Money requires an SGML-style header (e.g., OFXHEADER:100, VERSION:102).
